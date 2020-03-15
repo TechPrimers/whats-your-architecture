@@ -5,10 +5,13 @@
 - [Challenge 1](./challenge-1)
 
 ## How to provide solution?
-- Raise a PR under each challenge with your github username as the filename. eg. `movingtoweb.md`
+Raise a PR under each challenge folder with your github username as the filename. eg. `movingtoweb.md`
 
 ## Whats the format?
-- Based on the challenge you can provide a system design solution along with explanations (if required)
+Based on the challenge you can provide a system design solution along with explanations (if required)
 
 ## I have never contributed to Open Source
 Great! This is your opportunity, take a look at my video on how to contribute in Github - [How to contribute to Open Source](https://www.youtube.com/watch?v=LvkRaIKX1L8).
+
+## How will I know the solution
+We shall discuss the solutions in the next Live Q&A. Links will be updated in each challenge's `README` file.
