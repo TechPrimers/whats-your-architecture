@@ -1,4 +1,12 @@
 # Challenge 1 - Design a Food Store for FoodiE
+
+# Table of Contents
+- [Problem Statement](#problem-statement)
+    - [Assumptions](#assumptions)
+    - [Things to consider](#things-to-consider)
+- [Solutions from Community](#solutions-from-community)
+
+# Problem Statement
 You are the Architect for a new restaurant data processing team in a food startup which receives files from different restaurants and third party gateways for the next day's food menu. For ease of use, let call the data store as `Food Store` and the startup's name as `FoodiE`
 `Food Store` is the central food repository for all systems in `FoodiE`. 
 
