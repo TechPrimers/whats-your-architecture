@@ -19,5 +19,5 @@ Create a -
 # Solutions from Community
 Name      |   Solution      | Comments 
 ----      | ----            | ----
-Adithyan Sridhar | [Solution](./AdithyanSridhar.md) | 
+Adhithyan Sridhar | [Solution](./AdhithyanSridhar.md) | Uses generic architecture with Spring and Elatic ecosystems
 Swapnil Chaudari | [Solution](./SwapnilChaudari.md) | This architecture uses AWS resources using mix of Serverless and non-Serverless resources
