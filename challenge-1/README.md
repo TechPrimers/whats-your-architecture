@@ -15,3 +15,9 @@ Create a -
 
 ## Things to consider
 - You can leverage any non-Cloud platforms or Cloud Platforms (eg, AWS, Azure or GCP) to overlay your deployment diagram and leverage features from these platforms.
+
+# Solutions from Community
+Name      |   Solution      | Comments 
+----      | ----            | ----
+Adithyan Sridhar | [Solution](./AdithyanSridhar.md) | 
+Swapnil Chaudari | [Solution](./SwapnilChaudari.md) | This architecture uses AWS resources using mix of Serverless and non-Serverless resources
