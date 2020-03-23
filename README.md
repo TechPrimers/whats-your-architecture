@@ -2,7 +2,7 @@
 "What's your Architecture?" is a series of architecture and design challenges to voice out the opinions of the TechPrimers community members.
 
 ## Challenges
-- [Challenge 1](./challenge-1)
+- [Challenge 1 - Design a Food Store for FoodiE](./challenge-1)
 
 ## How to provide solution?
 Raise a PR under each challenge folder with your github username as the filename. eg. `movingtoweb.md`
