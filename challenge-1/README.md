@@ -27,5 +27,5 @@ Create a -
 # Solutions from Community
 Name      |   Solution      | Comments 
 ----      | ----            | ----
-Adhithyan Sridhar | [Solution](./AdhithyanSridhar.md) | Uses generic architecture with Spring and Elatic ecosystems
-Swapnil Chaudari | [Solution](./SwapnilChaudari.md) | This architecture uses AWS resources using mix of Serverless and non-Serverless resources
+Adhithyan Sridhar | [Solution](./AdhithyanSridhar.md) | This architecture uses Cloud Foundry resources with Spring, Elatic ecosystems along with Observability tools
+Swapnil Chaudari | [Solution](./SwapnilChaudari.md) | This architecture uses AWS native resources using mix of Serverless and non-Serverless resources
