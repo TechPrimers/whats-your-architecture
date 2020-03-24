@@ -27,7 +27,7 @@ Create a -
 # Solutions from Community
 Name      |   Solution      | Comments 
 ----      | ----            | ----
-Adhithyan Sridhar | [Solution](./AdhithyanSridhar.md) | This architecture uses Cloud Foundry resources with Spring, Elatic ecosystems along with Observability tools
+Adhithyan Sridhar | [Solution](./AdhithyanSridhar.md) | This architecture uses Cloud Foundry resources with Spring, Elastic ecosystems along with Observability tools
 Swapnil Chaudari | [Solution](./SwapnilChaudari.md) | This architecture uses AWS native resources using mix of Serverless and non-Serverless resources
 Ayyanar | [Solution](./Ayyanar.md) | This architecture uses Kubernetes and MongoDB
 Srinivas Karre | [Solution](./srinivaskarre.md) | This architecture is Cloud agnostic with mixture of different opensource tools including Observability capabilities
