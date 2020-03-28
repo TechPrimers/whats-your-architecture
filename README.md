@@ -3,6 +3,7 @@
 
 ## Challenges
 - [Challenge 1 - Design a Food Store for FoodiE](./challenge-1)
+- [Challenge 2 - Design a Data lake for a High Volume Trading Exchange](./challenge-2)
 
 ## How to provide solution?
 Raise a PR under each challenge folder with your github username as the filename. eg. `movingtoweb.md`
