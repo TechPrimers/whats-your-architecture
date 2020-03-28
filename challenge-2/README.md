@@ -26,7 +26,7 @@ _Hint: Some of these which come to my mind are: Apache Spark, Apache Storm, Apac
 - You need to also consider the maintainability and operational aspects of the deployment too (Observability).
  
 ## Things to consider
-- You can leverage any non-Cloud platforms or Cloud Platforms (eg, Cloud Foundr, AWS, Azure or GCP) to overlay your deployment diagram and leverage features from these platforms.
+- You can leverage any non-Cloud platforms or Cloud Platforms (eg, Cloud Foundry, AWS, Azure or GCP) to overlay your deployment diagram and leverage features from these platforms.
 
 # Solutions from Community
 Name      |   Solution      | Comments 
