@@ -31,3 +31,4 @@ Adhithyan Sridhar | [Solution](./AdhithyanSridhar.md) | This architecture uses C
 Swapnil Chaudari | [Solution](./SwapnilChaudari.md) | This architecture uses AWS native resources using mix of Serverless and non-Serverless resources
 Ayyanar | [Solution](./Ayyanar.md) | This architecture uses Kubernetes and MongoDB
 Srinivas Karre | [Solution](./srinivaskarre.md) | This architecture is Cloud agnostic with mixture of different opensource tools including Observability capabilities
+Vengatesan Nagarajan | [Solution](./vengatesan.md) | This architecture is based on Spring ecosystem like cloud, security, observability.,etc. Along with Elastic solutions and Data stream processing with kafka also included. For Data Store here I used cassandra which is more partition tolerant, highly available and eventually consistent.
