@@ -36,4 +36,4 @@ Use relevant database, technology stack, frameworks and tools for creating an ef
 # Solutions from Community
 Name      |   Solution      | Comments 
 ----      | ----            | ----
-Name | [Solution](./Name.md) | This architecture uses so and so.. This is a sample text.
+Himanshu Bhatt | [Solution](./HimanshuBhatt.png) | Serverless AWS Architecture using API Gateway, S3, SQS, SNS, Lambda, Kinesis, DynamoDB and AWS IOT
